@@ -1,0 +1,15 @@
+{
+    "helloWorld": "اهلا بالعالم",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+  "login": "تسجيل الدخول",
+  "by_phone": "رقم الهاتف",
+  "by_email": "الايميل",
+  "request_otp": "Request OTP",
+  "verify_otp": "Verify",
+  "otp": "OTP",
+  "sale_ends": "Sale ends in"
+
+}
+

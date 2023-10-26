@@ -1,0 +1,13 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+  "login": "Login",
+  "by_phone": "Phone number",
+  "by_email": "Email",
+  "request_otp": "Request OTP",
+  "verify_otp": "Verify",
+  "otp": "OTP",
+  "sale_ends": "Sale ends in"
+}

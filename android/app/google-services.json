@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900453111910",
+    "project_id": "spade-fb",
+    "storage_bucket": "spade-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900453111910:android:50aaf01268bcbf684875a7",
+        "android_client_info": {
+          "package_name": "com.example.spade_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPoAj2IlfuQdnBuLx7JnxnMjEFQuFX7W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
